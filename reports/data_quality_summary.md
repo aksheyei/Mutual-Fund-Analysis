@@ -28,3 +28,8 @@
 
 ## No Missing Values Found In
 - fund_master.csv
+
+## AMFI Code Validation (Task 7)
+
+All 40 AMFI codes in fund_master were checked against nav_history.
+Result: every code has matching NAV data present - no missing schemes found.

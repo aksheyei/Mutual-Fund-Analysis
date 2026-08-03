@@ -4,4 +4,3 @@ __pycache__/
 .venv/
 data/raw/*.csv
 data/processed/*.csv
-bluestock_mf.db

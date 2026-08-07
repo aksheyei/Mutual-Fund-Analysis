@@ -4,3 +4,7 @@ __pycache__/
 .venv/
 data/raw/*.csv
 data/processed/*.csv
+!data/processed/fund_scorecard.csv
+!data/processed/alpha_beta.csv
+!data/processed/max_drawdown.csv
+!data/processed/tracking_error_top5.csv

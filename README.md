@@ -30,7 +30,7 @@ benchmarks (SIP inflows, folio counts). The pipeline covers:
   Fund Performance, Investor Analytics, SIP & Market Trends) on a cleaned
   star-schema data model.
 
-See [`Final_Report.pdf`](./Final_Report.pdf) for full findings, methodology,
+See  [`Final_Report.pdf`](./reports/Final_Report.pdf) for full findings, methodology,
 known data gaps, and recommendations.
 
 ---

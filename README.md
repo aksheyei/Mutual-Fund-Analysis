@@ -4,7 +4,6 @@ End-to-end analysis of the Indian mutual fund industry: ETL, exploratory data
 analysis, performance & risk analytics, and a four-page Power BI dashboard —
 built during a data analyst internship at **Bluestock Fintech**.
 
-**Team:** Akshay ([aksheyei](https://github.com/aksheyei)) · Ayashvardhan793 · Mohangowtham124
 
 📄 **Full report:** [`Final_Report.pdf`](./Final_Report.pdf)
 📊 **Presentation:** [`Bluestock_MF_Presentation.pptx`](./Bluestock_MF_Presentation.pptx)

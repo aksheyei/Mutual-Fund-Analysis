@@ -5,8 +5,8 @@ analysis, performance & risk analytics, and a four-page Power BI dashboard —
 built during a data analyst internship at **Bluestock Fintech**.
 
 
-📄 **Full report:** [`Final_Report.pdf`](./Final_Report.pdf)
-📊 **Presentation:** [`Bluestock_MF_Presentation.pptx`](./Bluestock_MF_Presentation.pptx)
+📄 **Full report:** [`Final_Report.pdf`](./reports/Final_Report.pdf)
+📊 **Presentation:** [`Bluestock_MF_Presentation.pptx`](./reports/Bluestock_MF_Presentation.pptx)
 
 ---
 

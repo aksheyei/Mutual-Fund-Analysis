@@ -6,7 +6,7 @@ built during a data analyst internship at **Bluestock Fintech**.
 
 
 📄 **Full report:** [`Final_Report.pdf`](./reports/Final_Report.pdf)
-📊 **Presentation:** [`Bluestock_MF_Presentation.pptx`](./reports/Bluestock_MF_Presentation.pptx)
+📊 **Presentation:** [`Bluestock_MF_Presentation.pptx`](./reports/Presentation.pptx)
 
 ---
 
